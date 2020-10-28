@@ -1,2 +1,2 @@
-# judg_judgments_analyse
+# news_analyse
 seminaraufgabe data warehouse
