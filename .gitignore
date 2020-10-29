@@ -2,3 +2,5 @@ deu_news_2015_3M-sentences.txt
 sentences_de.csv
 stopwords_de.csv
 .ipynb_checkpoints/
+pymongo/
+bson/
